@@ -14,7 +14,7 @@ Features:
 
 1. Compile the Java files
 
-javac *.java
+javac Main.java
 
 2. Run the program
 
