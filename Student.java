@@ -1,3 +1,4 @@
+//Student Class - Stores student ID, name and marks
 public class Student {
     private String studentId;
     private String studentName;
